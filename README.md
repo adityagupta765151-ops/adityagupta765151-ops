@@ -34,14 +34,39 @@ I enjoy creating modern websites and exploring ways to turn ideas into useful di
 
 </div>
 
-## 🚀 Featured Projects
+Build my premium GitHub Profile README for this GitHub username:
 
-> Add your real projects and live demo links here as they become available.
+adityagupta765151-ops
 
-- **Project 01** — Add project name, description, and repository link.
-- **Project 02** — Add project name, description, and live website.
-- **Project 03** — Add project name, description, and key features.
+DESIGN:
+Create a polished, professional developer profile inspired by premium dark GitHub README layouts. It should look human-designed, credible, modern, and well organized — not like a generic AI template.
 
+SECTIONS:
+1. Custom profile banner with my name "Aditya Gupta" and title "Web Developer & Creative Developer".
+2. About Me with editable personal details.
+3. Tech Stack with relevant web development technologies and tools.
+4. Connect With Me with editable social links.
+5. Featured Projects with placeholders until I provide real project links.
+6. GitHub statistics.
+7. Top programming languages.
+8. Contribution streak.
+9. GitHub achievement trophies.
+
+TECHNICAL REQUIREMENTS:
+- Create or update only README.md in the profile repository.
+- Do not overwrite or modify unrelated project files.
+- Use valid GitHub-flavored Markdown.
+- Use supported external stats services only when available.
+- Avoid broken images, excessive badges, and oversized layouts.
+- Ensure the profile is responsive and readable on mobile.
+- Do not invent projects, achievements, followers, contributions, experience, or social URLs.
+- Mark unknown information as editable placeholders.
+- Use my real name as Aditya Gupta.
+- Before making changes, inspect the current repository and explain whether it is safe to proceed.
+- If the repository contains an existing README, preserve useful content and propose changes before replacing it.
+- Show me the final README.md and the exact Git commands needed to publish it.
+
+First inspect. Do not modify files until I approve the proposed changes.
 ## 📊 GitHub Analytics
 
 <div align="center">
